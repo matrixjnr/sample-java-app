@@ -1,5 +1,6 @@
 # Sample Java Application for `piku`
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/be19b2d010bb4034b7b7c6139541a879)](https://app.codacy.com/app/matrixjnr/sample-java-app?utm_source=github.com&utm_medium=referral&utm_content=matrixjnr/sample-java-app&utm_campaign=Badge_Grade_Dashboard)
 [![asciicast](https://asciinema.org/a/263991.svg)](https://asciinema.org/a/263991)
 
 This is a simple Java app that demonstrates:
