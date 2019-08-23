@@ -35,5 +35,7 @@ The server returns Time to the user.
 
 ## To Note
 Creating workers that have dependencies should be precompiled and packaged jar files with dependencies so as to be run as follows:
+
 `worker: java -jar workersdir/test.jar`
-Otherwise running workers from class files will throw errors.
+
+Otherwise running workers from class files with dependencies will throw errors.
